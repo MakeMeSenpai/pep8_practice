@@ -1,6 +1,6 @@
 # Lab: Refactoring Code to Comply with PEP 8 (Style Guide for Python)
 
-In this series of exercises, we learn how to refactor code for better readiblity according to PEP 8 guidelines.
+In this series of exercises, we learn how to refactor code for better readability according to PEP 8 guidelines.
 
 ## Activity 1: Indentation
 
